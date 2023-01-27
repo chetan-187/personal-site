@@ -1,3 +1,4 @@
+/* eslint linebreak-style: ["error", "windows"] */
 
 import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
